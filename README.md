@@ -1,8 +1,8 @@
 # Jerry Falimanana PHP / Symfony
 
-### Hi there 👋
+## Hi there 👋
 
-I am a php/symfony developer who is passionate about the IT world and above all I like challenges.
+### I am a php/symfony developer who is passionate about the IT world and above all I like challenges.
 
 Here are some ideas to get you started:
 
