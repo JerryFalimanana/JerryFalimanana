@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>][]
