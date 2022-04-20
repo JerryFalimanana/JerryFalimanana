@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: email or linkedin
 - ⚡ Fun fact: I love soccer, chess, games, poker and travel
+
+
+## Languages and Tools:
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][]
