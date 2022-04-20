@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://web.facebook.com/jerry.falimanana)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://code.visualstudio.com/docs)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://symfony.com/doc/5.4/index.html)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://www.php.net/docs.php)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://jquery.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/orphaned/Web/Guide/HTML/HTML5)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://dev.mysql.com/doc/)
