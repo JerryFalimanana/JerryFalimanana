@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://code.visualstudio.com/docs)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" alt="fb" width="30px" style="padding-right:11px"/>](https://code.visualstudio.com/docs)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://symfony.com/doc/5.4/index.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://www.php.net/docs.php)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/orphaned/Web/Guide/HTML/HTML5)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://developer.mozilla.org/fr/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://dev.mysql.com/doc/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://linux.die.net/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" alt="fb" width="25px" style="padding-right:11px"/>](https://docs.microsoft.com/en-us/windows/)
