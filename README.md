@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="left" alt="fb" width="30px" style="padding-right:11px"/>](https://dev.mysql.com/doc/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" alt="fb" width="30px" style="padding-right:11px"/>](https://linux.die.net/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" align="left" alt="fb" width="30px" style="padding-right:11px"/>](https://docs.microsoft.com/en-us/windows/)
+
+
+ ![GHstats](httpx://github-readme-stats.vercel.app/api?username=JerryFalimanana&show_icons=true)
