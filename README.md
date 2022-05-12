@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email or linkedin
 - ⚡ Fun fact: I love soccer, chess, games, poker and travel
 
-#Sitraka
+#####Sitraka
 ## Languages and Tools:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" alt="fb" width="30px" style="padding-right:11px"/>](https://code.visualstudio.com/docs)
