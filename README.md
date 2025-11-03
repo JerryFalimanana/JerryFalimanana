@@ -1,4 +1,4 @@
-# Jerry Falimanana PHP / Symfony
+# Jerry Falimanana PHP / Symfony / Javascript / ReactJs / Angular
 
 ## Hi there 👋
 
